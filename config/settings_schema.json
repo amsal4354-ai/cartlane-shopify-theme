@@ -1,0 +1,12 @@
+[
+  {"name":"theme_info","theme_name":"CartLane","theme_author":"CartLane","theme_version":"1.0.0","theme_documentation_url":"https://shopify.dev/docs/storefronts/themes"},
+  {"name":"CartLane brand","settings":[
+    {"type":"text","id":"eyebrow","label":"Brand eyebrow","default":"A better way to browse"},
+    {"type":"textarea","id":"hero_heading","label":"Homepage heading","default":"Good things for the way you live."},
+    {"type":"textarea","id":"hero_text","label":"Homepage introduction","default":"A considered mix of useful objects, small upgrades, and easy gifts — ready when you are."},
+    {"type":"text","id":"support_email","label":"Support email","default":"support@cartlane.in"},
+    {"type":"text","id":"support_phone","label":"Support phone","default":"+91 80 4123 6842"},
+    {"type":"textarea","id":"support_hours","label":"Support hours","default":"Monday–Saturday, 10:00 am–6:00 pm IST"},
+    {"type":"textarea","id":"store_address","label":"Store address","default":"18/2, 2nd Floor, 1st Main Road, Koramangala, Bengaluru 560034"}
+  ]}
+]
